@@ -32,4 +32,4 @@ Replace Face Mode</br>
 
 
 
-For more detail, you can go and download this <a href="https://github.com/paulkit/Assignment-Processing/blob/master/github/Introduction.docx">description document</a> 
+For more detail, you can download this <a href="https://github.com/paulkit/Assignment-Processing/raw/master/github/Introduction.docx">description document</a> 
