@@ -1,4 +1,4 @@
-# Assignment-Processing
+# Processing-Face-Detection
 Assignment project - Face detection &amp; interaction
 
 
